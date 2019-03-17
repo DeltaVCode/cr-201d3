@@ -1,11 +1,12 @@
-# Class 6: The DOM, Domain Modeling, and Introduction to Objects
+# Class 11: The DOM, Domain Modeling, and Introduction to Objects
 
 <a id="top"></a>
 ## Lecture 11
 
 ## Today's Schedule
 - Announcements
-  - Review feedback from week 1 surveys
+  - Review feedback from week 2 surveys
+  - Review quiz 2
 - Go over student surveys *[15 minutes]*
 - Discuss upcoming Career Coaching assignments
 - Code Review *[30 minutes]*
