@@ -1,4 +1,4 @@
-# Class 8: HTML Forms and JS Events
+# Class 13: HTML Forms and JS Events
 
 <a id="top"></a>
 ## Lecture 13
