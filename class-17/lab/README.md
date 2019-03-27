@@ -1,4 +1,4 @@
- # Assignment Overview: Lab 12
+ # Assignment Overview: Lab 17
 
 Your savvy marketing person has just informed you that just showing users the numbered data of the click percentages is not going to cut it.
 You need a visual representation to grab the user's attention.
